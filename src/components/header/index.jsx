@@ -1,4 +1,4 @@
-import search from "../../assets/search.svg";
+import search from "../../assets/Search.svg";
 import create from "../../assets/create.svg";
 import grid from "../../assets/grid.svg";
 import notifacation from "../../assets/notifacation.svg";
