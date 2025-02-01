@@ -6,8 +6,8 @@ import trending from "../../assets/trending.svg";
 import subscription from "../../assets/subscription.svg";
 import library from "../../assets/library.svg";
 import history from "../../assets/history.svg";
-import yourvideos from "../../assets/your videos.svg";
-import watchlater from "../../assets/watch later.svg";
+import yourvideos from "../../assets/Your videos.svg";
+import watchlater from "../../assets/Watch later.svg";
 import liked from "../../assets/liked videos.svg";
 import channel from "../../assets/Profile Photo.svg";
 
