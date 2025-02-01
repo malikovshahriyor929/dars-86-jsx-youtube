@@ -1,5 +1,5 @@
 import search from "../../assets/Search.svg";
-import create from "../../assets/create.svg";
+import create from "../../assets/Create.svg";
 import grid from "../../assets/grid.svg";
 import notifacation from "../../assets/notifacation.svg";
 import yourprfile from "../../assets/Profile Photo.svg";
